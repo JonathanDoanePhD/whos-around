@@ -1,0 +1,6 @@
+file,url,source,license,unzip
+atus/atusresp-0323.zip,https://www.bls.gov/tus/datafiles/atusresp-0323.zip,BLS American Time Use Survey 2003-2023 respondent file,U.S. government work (public domain),yes
+atus/atusact-0323.zip,https://www.bls.gov/tus/datafiles/atusact-0323.zip,ATUS 2003-2023 activity file,U.S. government work (public domain),yes
+atus/atuswho-0323.zip,https://www.bls.gov/tus/datafiles/atuswho-0323.zip,ATUS 2003-2023 who-was-present file,U.S. government work (public domain),yes
+atus/atuscps-0323.zip,https://www.bls.gov/tus/datafiles/atuscps-0323.zip,ATUS 2003-2023 CPS file (family income),U.S. government work (public domain),yes
+atus/atusrost-0323.zip,https://www.bls.gov/tus/datafiles/atusrost-0323.zip,ATUS 2003-2023 household roster,U.S. government work (public domain),yes

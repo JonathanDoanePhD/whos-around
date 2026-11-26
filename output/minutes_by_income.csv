@@ -1,0 +1,64 @@
+days,income,measure,label,mean,low,high,n
+All days,Low,nonfam_adults,With non-family adults outside the home,69.001,61.948,76.055,3023
+All days,Low,extfam_adults,With extended-family adults,40.855,35.027,46.682,3023
+All days,Low,with_parent,With a parent at home,139.589,130.726,148.452,3023
+All days,Low,alone,Alone,225.634,215.605,235.662,3023
+All days,Low,screen,"Screens (TV, games, leisure computer)",216.215,207.098,225.332,3023
+All days,Low,nonfam_outside_school_work,"With non-family adults, outside school and work",46.770,41.302,52.238,3023
+All days,Low,any_nonfam,Share of days with any time with non-family adults,0.343,0.320,0.366,3023
+All days,Middle,nonfam_adults,With non-family adults outside the home,82.766,75.108,90.423,2813
+All days,Middle,extfam_adults,With extended-family adults,37.171,31.590,42.753,2813
+All days,Middle,with_parent,With a parent at home,151.324,142.239,160.410,2813
+All days,Middle,alone,Alone,224.981,214.843,235.119,2813
+All days,Middle,screen,"Screens (TV, games, leisure computer)",198.040,189.163,206.917,2813
+All days,Middle,nonfam_outside_school_work,"With non-family adults, outside school and work",52.798,46.889,58.706,2813
+All days,Middle,any_nonfam,Share of days with any time with non-family adults,0.398,0.374,0.422,2813
+All days,High,nonfam_adults,With non-family adults outside the home,82.726,75.579,89.874,3125
+All days,High,extfam_adults,With extended-family adults,31.056,26.136,35.977,3125
+All days,High,with_parent,With a parent at home,157.530,149.019,166.041,3125
+All days,High,alone,Alone,242.681,233.413,251.948,3125
+All days,High,screen,"Screens (TV, games, leisure computer)",182.930,175.049,190.812,3125
+All days,High,nonfam_outside_school_work,"With non-family adults, outside school and work",55.120,49.541,60.698,3125
+All days,High,any_nonfam,Share of days with any time with non-family adults,0.427,0.404,0.451,3125
+School-year weekdays (enrolled),Low,nonfam_adults,With non-family adults outside the home,62.979,53.959,71.999,1191
+School-year weekdays (enrolled),Low,extfam_adults,With extended-family adults,22.413,16.430,28.395,1191
+School-year weekdays (enrolled),Low,with_parent,With a parent at home,104.650,94.575,114.724,1191
+School-year weekdays (enrolled),Low,alone,Alone,227.367,213.032,241.703,1191
+School-year weekdays (enrolled),Low,screen,"Screens (TV, games, leisure computer)",185.382,173.344,197.420,1191
+School-year weekdays (enrolled),Low,nonfam_outside_school_work,"With non-family adults, outside school and work",41.917,35.325,48.510,1191
+School-year weekdays (enrolled),Low,any_nonfam,Share of days with any time with non-family adults,0.375,0.341,0.409,1191
+School-year weekdays (enrolled),Middle,nonfam_adults,With non-family adults outside the home,79.755,69.771,89.740,1131
+School-year weekdays (enrolled),Middle,extfam_adults,With extended-family adults,21.800,16.279,27.321,1131
+School-year weekdays (enrolled),Middle,with_parent,With a parent at home,112.966,103.187,122.746,1131
+School-year weekdays (enrolled),Middle,alone,Alone,222.920,208.860,236.979,1131
+School-year weekdays (enrolled),Middle,screen,"Screens (TV, games, leisure computer)",163.018,151.706,174.330,1131
+School-year weekdays (enrolled),Middle,nonfam_outside_school_work,"With non-family adults, outside school and work",47.460,40.670,54.250,1131
+School-year weekdays (enrolled),Middle,any_nonfam,Share of days with any time with non-family adults,0.447,0.412,0.482,1131
+School-year weekdays (enrolled),High,nonfam_adults,With non-family adults outside the home,79.214,70.015,88.413,1329
+School-year weekdays (enrolled),High,extfam_adults,With extended-family adults,18.941,13.861,24.022,1329
+School-year weekdays (enrolled),High,with_parent,With a parent at home,116.977,108.249,125.705,1329
+School-year weekdays (enrolled),High,alone,Alone,241.293,228.583,254.002,1329
+School-year weekdays (enrolled),High,screen,"Screens (TV, games, leisure computer)",157.178,147.123,167.234,1329
+School-year weekdays (enrolled),High,nonfam_outside_school_work,"With non-family adults, outside school and work",52.065,45.083,59.048,1329
+School-year weekdays (enrolled),High,any_nonfam,Share of days with any time with non-family adults,0.465,0.432,0.498,1329
+Weekends & holidays,Low,nonfam_adults,With non-family adults outside the home,75.463,65.276,85.650,1604
+Weekends & holidays,Low,extfam_adults,With extended-family adults,69.651,59.753,79.548,1604
+Weekends & holidays,Low,with_parent,With a parent at home,200.216,185.995,214.436,1604
+Weekends & holidays,Low,alone,Alone,222.973,209.743,236.202,1604
+Weekends & holidays,Low,screen,"Screens (TV, games, leisure computer)",255.744,243.091,268.397,1604
+Weekends & holidays,Low,nonfam_outside_school_work,"With non-family adults, outside school and work",54.220,45.788,62.652,1604
+Weekends & holidays,Low,any_nonfam,Share of days with any time with non-family adults,0.295,0.266,0.324,1604
+Weekends & holidays,Middle,nonfam_adults,With non-family adults outside the home,83.643,73.068,94.219,1460
+Weekends & holidays,Middle,extfam_adults,With extended-family adults,60.170,51.073,69.267,1460
+Weekends & holidays,Middle,with_parent,With a parent at home,213.071,198.564,227.578,1460
+Weekends & holidays,Middle,alone,Alone,221.731,208.099,235.363,1460
+Weekends & holidays,Middle,screen,"Screens (TV, games, leisure computer)",254.682,241.998,267.365,1460
+Weekends & holidays,Middle,nonfam_outside_school_work,"With non-family adults, outside school and work",57.581,48.469,66.693,1460
+Weekends & holidays,Middle,any_nonfam,Share of days with any time with non-family adults,0.324,0.295,0.354,1460
+Weekends & holidays,High,nonfam_adults,With non-family adults outside the home,84.989,74.943,95.036,1612
+Weekends & holidays,High,extfam_adults,With extended-family adults,54.893,46.387,63.398,1612
+Weekends & holidays,High,with_parent,With a parent at home,236.107,222.560,249.655,1612
+Weekends & holidays,High,alone,Alone,238.923,226.957,250.889,1612
+Weekends & holidays,High,screen,"Screens (TV, games, leisure computer)",224.179,213.541,234.817,1612
+Weekends & holidays,High,nonfam_outside_school_work,"With non-family adults, outside school and work",63.039,54.328,71.750,1612
+Weekends & holidays,High,any_nonfam,Share of days with any time with non-family adults,0.351,0.322,0.380,1612

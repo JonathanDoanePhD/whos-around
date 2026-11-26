@@ -1,0 +1,22 @@
+income,context,minutes_per_day
+Low,Class & school activities,8.72
+Low,Other,29.39
+Low,Paid work,13.51
+Low,Religious,1.92
+Low,Shopping & services,2.02
+Low,Sports & exercise,10.25
+Low,Volunteering,3.19
+Middle,Class & school activities,8.11
+Middle,Other,32.29
+Middle,Paid work,21.86
+Middle,Religious,1.48
+Middle,Shopping & services,1.76
+Middle,Sports & exercise,13.46
+Middle,Volunteering,3.80
+High,Class & school activities,10.24
+High,Other,31.89
+High,Paid work,17.36
+High,Religious,1.49
+High,Shopping & services,1.74
+High,Sports & exercise,14.63
+High,Volunteering,5.36

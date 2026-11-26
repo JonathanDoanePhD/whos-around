@@ -1,0 +1,6 @@
+file,url,downloaded_utc,bytes,sha256
+atus/atusact-0323.zip,https://www.bls.gov/tus/datafiles/atusact-0323.zip,2026-11-13,82158871,f3125655071d74e285a6f6ebfa25009dd8231226f88aeb43b9ed68740130adaf
+atus/atuscps-0323.zip,https://www.bls.gov/tus/datafiles/atuscps-0323.zip,2026-11-13,109101075,0113baf7de6730729deebd50595575c2423e3345b83bc34398865693184aa7c2
+atus/atusresp-0323.zip,https://www.bls.gov/tus/datafiles/atusresp-0323.zip,2026-11-13,17370613,0cd0ed2aabdc87b2261915d2952630e763cee19049eb190d06837bc0b974a27d
+atus/atusrost-0323.zip,https://www.bls.gov/tus/datafiles/atusrost-0323.zip,2026-11-13,3240491,77891fe7c93c9cf2fc681682ac95bc7fb1ba33acfd9bc6cd96991dc93fb9370b
+atus/atuswho-0323.zip,https://www.bls.gov/tus/datafiles/atuswho-0323.zip,2026-11-13,20354786,b4c61a4a42db63621e544c7af761917fb105100d3437d031a9f91eda3a7f578d

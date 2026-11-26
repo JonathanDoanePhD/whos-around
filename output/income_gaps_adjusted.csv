@@ -1,0 +1,15 @@
+measure,label,term,diff_minutes,low,high
+nonfam_adults,With non-family adults outside the home,Low vs high income,-12.862,-22.167,-3.557
+nonfam_adults,With non-family adults outside the home,Middle vs high income,1.121,-8.842,11.083
+extfam_adults,With extended-family adults,Low vs high income,8.853,2.272,15.434
+extfam_adults,With extended-family adults,Middle vs high income,5.842,-0.565,12.249
+with_parent,With a parent at home,Low vs high income,-19.967,-31.034,-8.899
+with_parent,With a parent at home,Middle vs high income,-7.154,-18.271,3.962
+alone,Alone,Low vs high income,-16.840,-30.252,-3.428
+alone,Alone,Middle vs high income,-19.094,-33.063,-5.125
+screen,"Screens (TV, games, leisure computer)",Low vs high income,30.803,19.165,42.442
+screen,"Screens (TV, games, leisure computer)",Middle vs high income,12.951,1.538,24.365
+nonfam_outside_school_work,"With non-family adults, outside school and work",Low vs high income,-8.302,-15.259,-1.345
+nonfam_outside_school_work,"With non-family adults, outside school and work",Middle vs high income,-1.730,-9.203,5.742
+any_nonfam,Share of days with any time with non-family adults,Low vs high income,-0.080,-0.112,-0.047
+any_nonfam,Share of days with any time with non-family adults,Middle vs high income,-0.024,-0.058,0.009

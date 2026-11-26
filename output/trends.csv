@@ -1,0 +1,61 @@
+period,income,measure,label,mean,low,high,n
+2003-07,Low,nonfam_adults,With non-family adults outside the home,83.645,71.414,95.875,1070
+2003-07,Low,nonfam_outside_school_work,"With non-family adults, outside school and work",51.151,42.344,59.958,1070
+2003-07,Low,alone,Alone,220.779,205.429,236.129,1070
+2003-07,Low,screen,"Screens (TV, games, leisure computer)",202.842,189.765,215.918,1070
+2003-07,Middle,nonfam_adults,With non-family adults outside the home,87.918,75.237,100.600,1006
+2003-07,Middle,nonfam_outside_school_work,"With non-family adults, outside school and work",60.509,50.642,70.377,1006
+2003-07,Middle,alone,Alone,214.221,200.328,228.113,1006
+2003-07,Middle,screen,"Screens (TV, games, leisure computer)",185.907,173.866,197.948,1006
+2003-07,High,nonfam_adults,With non-family adults outside the home,89.657,77.990,101.324,1118
+2003-07,High,nonfam_outside_school_work,"With non-family adults, outside school and work",59.346,50.204,68.488,1118
+2003-07,High,alone,Alone,244.079,230.170,257.987,1118
+2003-07,High,screen,"Screens (TV, games, leisure computer)",182.400,171.125,193.675,1118
+2008-12,Low,nonfam_adults,With non-family adults outside the home,66.988,55.659,78.318,881
+2008-12,Low,nonfam_outside_school_work,"With non-family adults, outside school and work",54.598,44.903,64.294,881
+2008-12,Low,alone,Alone,184.500,170.764,198.237,881
+2008-12,Low,screen,"Screens (TV, games, leisure computer)",206.730,192.534,220.926,881
+2008-12,Middle,nonfam_adults,With non-family adults outside the home,77.620,64.962,90.279,736
+2008-12,Middle,nonfam_outside_school_work,"With non-family adults, outside school and work",60.846,50.122,71.571,736
+2008-12,Middle,alone,Alone,193.188,177.822,208.554,736
+2008-12,Middle,screen,"Screens (TV, games, leisure computer)",201.294,185.886,216.701,736
+2008-12,High,nonfam_adults,With non-family adults outside the home,68.951,59.249,78.653,947
+2008-12,High,nonfam_outside_school_work,"With non-family adults, outside school and work",51.665,43.395,59.935,947
+2008-12,High,alone,Alone,207.416,194.380,220.453,947
+2008-12,High,screen,"Screens (TV, games, leisure computer)",178.258,165.950,190.566,947
+2013-17,Low,nonfam_adults,With non-family adults outside the home,69.377,56.029,82.724,615
+2013-17,Low,nonfam_outside_school_work,"With non-family adults, outside school and work",49.201,38.406,59.995,615
+2013-17,Low,alone,Alone,198.309,180.055,216.564,615
+2013-17,Low,screen,"Screens (TV, games, leisure computer)",209.445,190.666,228.224,615
+2013-17,Middle,nonfam_adults,With non-family adults outside the home,84.716,70.171,99.261,642
+2013-17,Middle,nonfam_outside_school_work,"With non-family adults, outside school and work",50.696,40.072,61.321,642
+2013-17,Middle,alone,Alone,210.535,193.289,227.781,642
+2013-17,Middle,screen,"Screens (TV, games, leisure computer)",192.182,175.859,208.505,642
+2013-17,High,nonfam_adults,With non-family adults outside the home,88.773,74.513,103.033,617
+2013-17,High,nonfam_outside_school_work,"With non-family adults, outside school and work",60.016,48.927,71.104,617
+2013-17,High,alone,Alone,219.207,202.739,235.674,617
+2013-17,High,screen,"Screens (TV, games, leisure computer)",172.964,158.267,187.661,617
+2018-19,Low,nonfam_adults,With non-family adults outside the home,75.633,46.238,105.028,178
+2018-19,Low,nonfam_outside_school_work,"With non-family adults, outside school and work",47.584,24.599,70.569,178
+2018-19,Low,alone,Alone,240.391,197.280,283.502,178
+2018-19,Low,screen,"Screens (TV, games, leisure computer)",205.313,173.026,237.600,178
+2018-19,Middle,nonfam_adults,With non-family adults outside the home,108.493,76.550,140.436,167
+2018-19,Middle,nonfam_outside_school_work,"With non-family adults, outside school and work",65.350,39.967,90.733,167
+2018-19,Middle,alone,Alone,211.703,175.613,247.793,167
+2018-19,Middle,screen,"Screens (TV, games, leisure computer)",194.864,161.466,228.262,167
+2018-19,High,nonfam_adults,With non-family adults outside the home,82.406,53.968,110.844,172
+2018-19,High,nonfam_outside_school_work,"With non-family adults, outside school and work",47.966,27.320,68.612,172
+2018-19,High,alone,Alone,260.572,224.069,297.076,172
+2018-19,High,screen,"Screens (TV, games, leisure computer)",177.448,145.967,208.930,172
+2020-23,Low,nonfam_adults,With non-family adults outside the home,50.588,31.698,69.479,279
+2020-23,Low,nonfam_outside_school_work,"With non-family adults, outside school and work",27.951,15.162,40.739,279
+2020-23,Low,alone,Alone,312.552,277.800,347.303,279
+2020-23,Low,screen,"Screens (TV, games, leisure computer)",258.215,227.143,289.287,279
+2020-23,Middle,nonfam_adults,With non-family adults outside the home,65.881,47.610,84.152,262
+2020-23,Middle,nonfam_outside_school_work,"With non-family adults, outside school and work",30.676,18.585,42.767,262
+2020-23,Middle,alone,Alone,300.678,262.110,339.246,262
+2020-23,Middle,screen,"Screens (TV, games, leisure computer)",217.420,187.658,247.182,262
+2020-23,High,nonfam_adults,With non-family adults outside the home,85.289,62.850,107.728,271
+2020-23,High,nonfam_outside_school_work,"With non-family adults, outside school and work",52.372,35.780,68.964,271
+2020-23,High,alone,Alone,304.846,272.315,337.377,271
+2020-23,High,screen,"Screens (TV, games, leisure computer)",203.917,177.342,230.492,271
